@@ -1,14 +1,15 @@
-HTML5 Genetic Cars
-==================
+# BoxCar2D2
 
-A genetic algorithm car evolver in HTML5 canvas.
+A genetic algorithm experiment. Forked from [here](https://github.com/red42/HTML5_Genetic_Cars), which itself was originally based on a now defunct project called [BoxCar2D](http://boxcar2d.com/).
 
-This is inspired by BoxCar2D, and uses the same physics engine, Box2D, but it's written from scratch.
+I forked this in order to add some features that the original BoxCar2D had, plus some other features that I want. I am very thankful to [Rafael Matsunaga](https://rednuht.org/) and everyone else who contributed code.
 
-This is the code as published on http://rednuht.org/genetic_cars_2/
+# Features
 
-The current module-based format required npm and browserify.
+An inexhaustive list of some features I wish to add.
 
-Build with:
-
-npm run-script build
+* Car editor
+* Deterministic simulation
+* Customizable terrain generation
+* Different terrain types
+* UI changes

@@ -216,3 +216,7 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#npm build stuff
+bundle.js
+bundle-bare.js
